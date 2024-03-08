@@ -1,5 +1,4 @@
-# Hi there 👋 <br>I'm Kacper
-
+# About me
 I'm a computer science student interested in gamedev and UX/UI. I value the human side of software. I place the looks on the same level as performance. I enjoy a clever algorithms, neat code structures and very flashy buttons. 
 
 Yes, I am spending too much time on CSS.
@@ -35,6 +34,6 @@ I was developing a signal processing algorithm doing research in Python and then
 </div>
 
 <div align="center">
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kacpermejs&hide=ShaderLab&langs_count=6&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kacpermejs&hide=ShaderLab&langs_count=6&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
 
