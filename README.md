@@ -1,7 +1,7 @@
 <a href="https://www.linkedin.com/in/kacper-mejsner-7617a8238/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
 </a>
-<a href="kacpermejs.github.io" target="_blank">
+<a href="https://kacpermejs.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" />
 </a>
 <h1 align="center">
