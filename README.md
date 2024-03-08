@@ -29,7 +29,7 @@
 I learned a good mixture of electronics and programming. Programming side was focussed mostly on Embedded with C/C++ but choosing to specialize in Industry 4.0 allowed me to learn some mobile app development and higher level languages like C# and Java.
 
 ## Applied Computer Science
-In progress. On my 1 level studies I was most interested in the programming side. So here I am for my masters. It allowed me to learn more about web development and some more programming theory. We were using Angular and Spring Boot in our course projects one of which utilized some AWS services.
+In progress. On my first level studies I was most interested in the programming side. So here I am for my masters. It allowed me to learn more about web development and some more programming theory. We were using Angular and Spring Boot in our course projects one of which utilized some AWS services.
 
 ## Aditional courses I took
 - Angular - The Complete Guide (2024 Edition) at Udemy
@@ -39,9 +39,17 @@ In progress. On my 1 level studies I was most interested in the programming side
 <br>
 
 ## Experience
-### Digital signal processing at Nanores
-I was developing a signal processing algorithm doing research in Python and then implementing it in C++ to run on STM32.
+<h3>
+Internship at <img src="https://github.com/kacpermejs/kacpermejs/assets/51543504/0d74425f-d94a-4183-bc01-5a1d363e0c6b" alt="icon" height="40" align="center"/>
+</h3>
 
+I was learning how to make desktop apps with .Net WPF using MVVm pattern.
+
+<h3>
+    Embedded Software Engineer at <img src="https://github.com/kacpermejs/kacpermejs/assets/51543504/a89d7d1f-97bf-4b26-a4c7-a07753f919fb" alt="icon" height="50" align="center"/>    
+</h3> 
+
+I was developing a signal processing algorithm doing research in Python and then implementing it in C++ to run on STM32.
 <br>
 <br>
 
