@@ -10,7 +10,11 @@ Yes, I am spending too much time on CSS.
 I learned a good mixture of electronics and programming. Programming side was focussed mostly on Embedded with C/C++ but choosing to specialize in Industry 4.0 allowed me to learn some mobile app development and higher level languages like C# and Java.
 
 ## Applied Computer Science
-In progress. On my 1 level studies I was most interested in the programming side. So here I am for my masters. It allowed me to learn more about web development and some more programming theory. We were using Angular and Spring Boot in our course projects one of which utilized some AWS services.  
+In progress. On my 1 level studies I was most interested in the programming side. So here I am for my masters. It allowed me to learn more about web development and some more programming theory. We were using Angular and Spring Boot in our course projects one of which utilized some AWS services.
+
+## Aditional courses I took
+- Angular - The Complete Guide (2024 Edition) at Udemy
+- Python Data Essentials at Pluralsight
 
 ## Experience
 ### Digital signal processing at Nanores
