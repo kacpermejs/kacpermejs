@@ -1,5 +1,15 @@
+<a href="https://www.linkedin.com/in/kacper-mejsner-7617a8238/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+</a>
+<a href="kacpermejs.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" />
+</a>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kacper!;" />
+</h1>
+
 # About me
-I'm a computer science student interested in gamedev and UX/UI. I value the human side of software. I place the looks on the same level as performance. I enjoy a clever algorithms, neat code structures and very flashy buttons. 
+I'm a computer science student interested in gamedev and UX/UI. I value the human side of software. I enjoy a clever algorithms, neat code structures and very flashy buttons. 
 
 Yes, I am spending too much time on CSS.
 
