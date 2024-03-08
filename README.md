@@ -17,7 +17,7 @@ In progress. On my 1 level studies I was most interested in the programming side
 I was developing a signal processing algorithm doing research in Python and then implementing it in C++ to run on STM32.
 
 ## Projects I took part in
-- Desktop WinForms app for managing factory wharehouses, sales and deliveries 
+- Desktop WinForms app for managing factory warehouses, sales and deliveries 
 - IOT plant monitoring system
 - Pathfinging algorithm for RTS type game in Unity (My thesis)
 - RND on AI based software vulnerability detection
