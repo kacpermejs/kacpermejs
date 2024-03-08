@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,java,spring,firebase"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,java,spring,firebase"/><br>
     <img src="https://skillicons.dev/icons?i=unity,visualstudio,vscode,cs,cpp,c,python" /><br>
 </div>
 
