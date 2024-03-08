@@ -1,8 +1,26 @@
-### Hi there 👋
+# Hi there 👋 <br>I'm Kacper
+
+I'm a computer science student interested in gamedev and UX/UI. I value the human side of software. I place the looks on the same level as performance. I enjoy a clever algotithms, neet code structures and very flashy buttons. 
+
+Yes, I am spending too much time on CSS.
+
+# Education
+
+## Bachelor of Engineering in Automation and Robotics (spec. Industry 4.0)
+I learned a good mixture of electronics and programming. Programming sidw was focussed mostly on Embedded with C/C++ but choosing a specialise in Industry 4.0 allowed me to learn some mobile app developmnent and higher level languages like C# and Java.
+
+## Applied Computer Science
+In progress. On my 1 level studies I was most interested in the programming side. So here I am for my masters. It allowed me to learn more about web development and some more programming theory. We were using Angular and Spring Boot in our course projects one of which utilized some AWS services.  
+
+## Experience
+### Digital signal processing at Nanores
+I was developing a signal processing algorithm doing reaserch in Python and then implementing it in C++ to run on STM32.
+
+## Projects I took part in
+
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,java,spring,firebase"/><br>
-    <img src="https://skillicons.dev/icons?i=unity,visualstudio,vscode,cs,cpp,c,python" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,java,spring,firebase,github,unity,visualstudio,vscode,cs,cpp,c,python&perline=8"/><br>
 </div>
 
 <div align="center">
