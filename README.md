@@ -8,10 +8,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kacper!;" />
 </h1>
 
-# About me
-I'm a computer science student interested in gamedev and UX/UI. I value the human side of software. I enjoy a clever algorithms, neat code structures and very flashy buttons. 
+<h3 align="center">I'm a computer science student interested in gamedev and UX/UI.</h3>
 
-Yes, I am spending too much time on CSS.
+<p align="center">
+    I value the human side of software.
+</p>
+<p align="center">
+    I enjoy a clever algorithms, neat code structures and very flashy buttons. 
+</p>
+<p align="center">
+    Yes, I am spending too much time on CSS.
+</p>
+
+<hr>
 
 # Education
 
