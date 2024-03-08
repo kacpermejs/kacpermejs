@@ -20,7 +20,8 @@
     Yes, I am spending too much time on CSS.
 </p>
 
-<hr>
+<br>
+<br>
 
 # Education
 
@@ -34,9 +35,15 @@ In progress. On my 1 level studies I was most interested in the programming side
 - Angular - The Complete Guide (2024 Edition) at Udemy
 - Python Data Essentials at Pluralsight
 
+<br>
+<br>
+
 ## Experience
 ### Digital signal processing at Nanores
 I was developing a signal processing algorithm doing research in Python and then implementing it in C++ to run on STM32.
+
+<br>
+<br>
 
 ## Projects I took part in
 - Desktop WinForms app for managing factory warehouses, sales and deliveries 
@@ -45,6 +52,9 @@ I was developing a signal processing algorithm doing research in Python and then
 - RND on AI based software vulnerability detection
 - Angular app for managing cinema tickets
 - Tic-tac-toe game made with Angular, Spring Boot and AWS
+
+<br>
+<br>
 
 ## Tech I use
 
