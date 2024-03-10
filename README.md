@@ -43,13 +43,13 @@ In progress. On my first level studies I was most interested in the programming 
 Internship at <img src="https://github.com/kacpermejs/kacpermejs/assets/51543504/0d74425f-d94a-4183-bc01-5a1d363e0c6b" alt="icon" height="40" align="center"/>
 </h3>
 
-I was learning how to make desktop apps with .Net WPF using MVVm pattern.
+I was learning how to make desktop apps with .Net WPF using MVVM pattern.
 
 <h3>
     Embedded Software Engineer at <img src="https://github.com/kacpermejs/kacpermejs/assets/51543504/a89d7d1f-97bf-4b26-a4c7-a07753f919fb" alt="icon" height="50" align="center"/>    
 </h3> 
 
-I was developing a signal processing algorithm doing research in Python and then implementing it in C++ to run on STM32.
+I was developing a signal processing algorithm, doing research in Python and then implementing it in C++ to run on STM32.
 <br>
 <br>
 
