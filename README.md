@@ -14,7 +14,7 @@
     I value the human side of software.
 </p>
 <p align="center">
-    I enjoy a clever algorithms, neat code structures and very flashy buttons. 
+    I enjoy clever algorithms, neat code structures and very flashy buttons. 
 </p>
 <p align="center">
     Yes, I am spending too much time on CSS.
